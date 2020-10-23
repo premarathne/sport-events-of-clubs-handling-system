@@ -1,0 +1,6 @@
+mongodb
+
+user : Chamly
+password : ChamlyLorence
+
+mongodb+srv://Chamly:<password>@medicindielivery-jf9zt.mongodb.net/test?retryWrites=true&w=majority
